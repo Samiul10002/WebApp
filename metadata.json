@@ -1,0 +1,6 @@
+{
+  "name": "TalentAI Enterprise Screen",
+  "description": "Premium enterprise-grade AI Candidate Screening, Ranking, Interview Question Generation and Automated Outreach SaaS Suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
